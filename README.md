@@ -15,7 +15,7 @@ Este repositorio contiene tres componentes principales:
 ## Estructura del Proyecto
 
 
-mi-proyecto/
+pruebaTecnica/
 ├── backend/               # API REST con Spring Boot
 ├── frontend/              # Frontend con React
 ├── math-library/          # Biblioteca matemática en Java
