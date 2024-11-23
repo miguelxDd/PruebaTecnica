@@ -7,7 +7,9 @@ Prueba Tecnica en Java, Usando hibernate.
 Este repositorio contiene tres componentes principales:
 
 1. **Backend (Spring Boot)**: API RESTful para la gestión de productos.
+
 2. **Frontend (React)**: Interfaz gráfica para interactuar con la API.
+   
 3. **Biblioteca Matemática (Java)**: Biblioteca reutilizable con operaciones matemáticas.
 
 ## Estructura del Proyecto
