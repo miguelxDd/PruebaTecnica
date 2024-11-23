@@ -23,6 +23,8 @@ pruebaTecnica/
 
 ├── math-library/          # Biblioteca matemática en Java
 
+├── Documentacion/          # Documentacion del frontend y backend
+
 └── README.md              # Descripción del repositorio
 
 
@@ -61,3 +63,12 @@ pruebaTecnica/
 - Accede al frontend en `http://localhost:3000`.
 - Accede al backend en `http://localhost:8080/api`.
 
+## Uso de la biblioteca.
+1. instalar el .jar.
+2. importar la dependencia en el pom.xml
+    ```bash
+   <dependency>
+    <groupId>com.operaciones</groupId>
+    <artifactId>operaciones-math</artifactId>
+    <version>1.0-SNAPSHOT</version>
+   </dependency>
