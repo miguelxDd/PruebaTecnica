@@ -16,6 +16,7 @@ Este repositorio contiene tres componentes principales:
 
 
 pruebaTecnica/
+
 ├── backend/               # API REST con Spring Boot
 
 ├── frontend/              # Frontend con React
